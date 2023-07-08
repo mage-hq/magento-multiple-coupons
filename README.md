@@ -1,5 +1,5 @@
 # magento-multiple-coupons
-Multiple Coupons extension support that helps customers add multiple different coupons in one order. Giving shoppers more opportunities at better prices, stores are boosted sales.
+With Magento 2 Multiple Coupons extension, customers can apply several coupons to a single order. This helps shoppers save more money and boosts store revenue
 
 Please go to https://magehq.com/multiple-coupons.html buy extension
 
